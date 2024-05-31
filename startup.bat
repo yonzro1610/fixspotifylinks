@@ -1,2 +1,2 @@
 @echo off
-start /min "" pythonw "./main.py"
+start /min "" pythonw "C:\Users\%USERNAME%\Documents\GitHub\fixspotifylinks.pyw"
